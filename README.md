@@ -51,44 +51,4 @@
 
 ![消息提醒](https://bugstack.cn/assets/images/2020/ui-05.png)
 
-## 四、专栏学习（自愿支持）
 
->专栏共有25篇文章，分别从UI、架构到功能实现逐步讲解，非常适合新人学习提升编码能力和架构思想。
-
-学习链接：[https://blog.csdn.net/generalfu/category_10400631.html](https://blog.csdn.net/generalfu/category_10400631.html)
-
-![](https://bugstack.cn/assets/images/2020/invite.jpg)
-
-## 五、与我联系
-
-
-- **加群交流**
-
-    本群的宗旨是给大家提供一个良好的技术学习交流平台，所以杜绝一切广告！由于微信群人满 100 之后无法加入，请扫描下方二维码先添加作者 “小傅哥” 微信(fustack)，备注：`Spring学习加群`。
-    
-    <img src="https://itedus.cn/_media/fustack.png?x-oss-process=style/may" width="180" height="180"/>
-
-- **公众号(bugstack虫洞栈)**
-
-    沉淀、分享、成长，专注于原创专题案例，以最易学习编程的方式分享知识，让自己和他人都能有所收获。目前已完成的专题有；Netty4.x实战专题案例、用Java实现JVM、基于JavaAgent的全链路监控、手写RPC框架、DDD专题案例、源码分析等。
-    
-    <img src="https://itedus.cn/_media/qrcode.png?x-oss-process=style/may" width="180" height="180"/>
-
-## 六、参与贡献
-
-1. 如果您对本项目有任何建议或发现文中内容有误的，欢迎提交 issues 进行指正。
-2. 对于文中我没有涉及到知识点，欢迎提交 PR。
-
-## 七、致谢
-
-感谢以下人员对本仓库做出的贡献，当然不仅仅只有这些贡献者，这里就不一一列举了。如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与我联系。
-
-<a href="https://github.com/linw7">
-    <img src="https://avatars0.githubusercontent.com/u/3761578?s=460&v=4" style="border-radius:5px" width="50px">
-</a> 
-<a href="https://github.com/g10guang">
-    <img src="https://avatars0.githubusercontent.com/u/30902679?s=400&v=4" style="border-radius:5px" width="50px">
-</a> 
-<a href="https://github.com/g10guang">
-    <img src="https://avatars1.githubusercontent.com/u/15908832?s=180&v=4" style="border-radius:5px" width="50px">
-</a>
